@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="abc"></p>
+<p id="xyz"></p>
+<p id="abcd"></p>
+<p id="imbo"></p>
+<script>
+a="welcome to "
+a+="lpu"
+
+var x=5+10;
+var y="5"+10;
+var z="hello"+5;
+var names=["Lavi","Lavanya","Lavu"];
+
+document.getElementById("abc").innerHTML=a;
+document.getElementById("xyz").innerHTML=x+"<br>"+y+"<br>"+z;
+document.getElementById("abcd").innerHTML=100+50*3;
+document.getElementById("imbo").innerHTML=names[2];
+</script>
+</body>
+</html>
