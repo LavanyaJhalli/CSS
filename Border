@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>CSS</title>
+<style>
+
+p.dotted{border-style:dotted;border-color:crimson;}
+p.dashed{border-style:dashed;border-color:blue;}
+p.mix{border-style:dotted dashed wavy double;border-color:green;}
+p.one{border-style:solid;border-color:red green blue yellow;}
+p.two{border:15px dotted pink;}
+p.three{border:2px solid indigo; border-radius:5px}
+div{border:1px solid orange;margin-top:100px;margin-bottom:100px;margin-left:150px;margin-right:150px;
+background-color:lightblue;}
+.diva{border:1px solid orange; margin:500px 25px 50px 10px;background-color:pink;}
+</style>
+
+</head>
+<body>
+<h2>The border style property</h2>
+<p>This property specifies what kind of border to display:</p>
+<p class="dotted">DOTTED BORDER.</p>
+<p class="dashed">DASHED BORDER.</p>
+<p class="mix">MIXED BORDER.</p>
+<p class="one">Lavanya</p>
+<p class="two">Juhi</p>
+<p class="three">Juhi</p>
+<div><h1>hello</h1></div>
+<p class="diva">hello</p>
+</body>
+</html>
