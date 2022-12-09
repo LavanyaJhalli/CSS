@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<title>CSS padding</title>
+<style>
+h1{text-decoration-line:underline;text-decoration-color:crimson;
+text-decoration-style:dotted;text-decoration-thickness:auto;}
+h2{text-decoration: underline red double 5px;}
+p.uppercase{text-transform:uppercase;}
+p.lowercase{text-transform:lowercase;}
+p.capitalize{text-transform:capitalize;}
+p{text-indent:50px;letter-spacing:5px;line-height:0.8;word-spacing:10px;white-space:nowrap;}
+h1{text-shadow: 2px 2px 5px red;font-family:cursive;font-style:oblique;}
+
+</style>
+
+</head>
+
+<body>
+<h1>fghjkl ghjsk</h1>
+<h1>Sushhhhhhhhh</h1>
+<p class="uppercase">Lavanya Jhalli</p>
+<p class="lowercase">lavanya</p>
+<p class="capitalize">lavanya</p>
+<p>Laviiiiiiiiii</p>
+</body>
+
+
+
+</html>
