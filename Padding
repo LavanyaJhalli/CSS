@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<title>CSS padding</title>
+<style>
+p.hn{border: 15px double purple; padding: 50px 50px 40px 25px; height:50px;width:50%}
+body{background-color:powderblue;height:5000px;width:50%}
+</style>
+</head>
+
+<body>
+<p class='hn'>BORDER 1</p>
+</body>
+
+
+
+</html>
