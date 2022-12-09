@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>CSS</title>
+<style>
+ha{text-align:center;color:red;fontsize:120px;font-family:cursive}
+#para1{color:blue;text-align:left}
+.para2{text-align:right;color:green;}
+*{color:yellow;text-align:right}
+</style>
+</head>
+<body>
+<ha><h1>HEADING</h1></ha>
+<p id="para1">Its 11:11,Make a Wish</p>
+<p class="para2">Hey its Lavanya Jhalli</p>
+
+</body> 
+<html>
