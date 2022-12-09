@@ -1,0 +1,22 @@
+<html>
+
+<head>
+<title>CSS Links</title>
+<style>
+
+a:link,a.visited{color:blue;background-color:aqua;padding:14px 25p;text-align:center;text-decoration:none;display:inline-block}
+
+a:hover{color:hotpink;background-color:black;}
+
+a:active{color:red;background-color:grey;}
+</style>
+</head>
+
+<body>
+<p><b><a href="lech101.pdf" target="_blank">this is a link</a></b></p>
+<p><b><a href="Instructions.pdf" target="_blank">this is a link</a></b></p>
+</body>
+
+
+
+</html>
